@@ -1,0 +1,7 @@
+com\mycompany\bankapp\model\Account.class
+com\mycompany\bankapp\model\Transaction.class
+com\mycompany\bankapp\JAXRSConfiguration.class
+com\mycompany\bankapp\model\Customer.class
+com\mycompany\bankapp\service\BankAppService.class
+com\mycompany\bankapp\resources\JavaEE8Resource.class
+com\mycompany\bankapp\resources\BankAppResource.class
